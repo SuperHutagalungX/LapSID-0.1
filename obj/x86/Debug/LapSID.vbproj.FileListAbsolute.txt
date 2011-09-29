@@ -1,0 +1,84 @@
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\LapSID.frmPathDBase.resources
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\LapSID.frmUtama.resources
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\LapSID.Resources.resources
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\bin\Debug\LapSID.exe
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\bin\Debug\LapSID.pdb
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\bin\Debug\LapSID.xml
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\LapSID.exe
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\LapSID.xml
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\LapSID.pdb
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\LapSID.frmAbout.resources
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Debug\LapSID.frmKirimSID.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.exe
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.xml
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.pdb
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\bin\Debug\LapSID.exe
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\bin\Debug\LapSID.pdb
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\bin\Debug\LapSID.xml
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmAbout.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmCekLunas.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmEdit.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmInput.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmKirimSID.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmLihatNeraca.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmPathDBase.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmUtama.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.Resources.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmTransferKredit.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmBakiDebet.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmTransDIN.resources
+C:\Documents and Settings\IT DEPT\my documents\visual studio 2010\Projects\LapSID\LapSID\obj\x86\Debug\LapSID.frmTransNasabah.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.exe
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.xml
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.pdb
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\bin\Debug\LapSID.exe
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\bin\Debug\LapSID.pdb
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\bin\Debug\LapSID.xml
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmAbout.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmBakiDebet.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmCekLunas.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmEdit.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmInput.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmKirimSID.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmLihatNeraca.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmPathDBase.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmTransDIN.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmTransferKredit.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmTransNasabah.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmUtama.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.Resources.resources
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\IT DEPT\My Documents\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmPenjamin.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.exe
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.xml
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.pdb
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\bin\Debug\LapSID.exe
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\bin\Debug\LapSID.pdb
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\bin\Debug\LapSID.xml
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmAbout.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmBakiDebet.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmCekLunas.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmEdit.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmInput.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmKirimSID.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmLihatNeraca.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmPathDBase.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmPenjamin.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmTransDIN.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmTransferKredit.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmTransNasabah.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmUtama.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.Resources.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.LoginSID.resources
+D:\MASTER\IT-DEPT\Backup\My Document\Visual Studio 2010\Projects\LapSID\LapSID.moved\obj\x86\Debug\LapSID.frmLoginSID.resources

@@ -1,0 +1,6 @@
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Release\LapSID.frmPathDBase.resources
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Release\LapSID.frmUtama.resources
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Release\LapSID.Resources.resources
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\IT DEPT\Local Settings\Application Data\Temporary Projects\LapSID\obj\x86\Release\GenerateResource.write.1.tlog
